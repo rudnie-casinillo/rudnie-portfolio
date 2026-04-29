@@ -74,7 +74,7 @@ export function Footer() {
       handle: "rudnie-casinillo",
     },
     {
-      href: "https://github.com/rudnie",
+      href: "https://github.com/rudnie-casinillo",
       icon: <Github className="w-4 h-4" />,
       label: "GitHub",
       handle: "rudnie",
