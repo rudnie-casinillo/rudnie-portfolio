@@ -14,7 +14,7 @@ export const recommendationsData = [
     message:
       "Rudnie is always ready to work and treats every task as an opportunity to learn. He works to understand, not just to comply — ensuring every output he delivers is polished and well thought out. He is a great team player, respectful, and communicates professionally. Rudnie is a valuable asset and I am confident he will continue to do great things.",
     name: "Mr. Sean Lester A. Lavarias",
-    role: "IT Helpdesk Supervisor · SP Madrid and Associates",
+    role: "Junior Associate · SP Madrid and Associates",
     relation: "Helpdesk Supervisor",
     initial: "S",
     color: "green",
