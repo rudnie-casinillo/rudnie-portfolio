@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Rudnie Casinillo | Network Engineer & Cybersecurity Portfolio",
     description: "Computer Engineering student passionate about networking and cybersecurity. Open to opportunities in Network Engineering, Cybersecurity, and IT Helpdesk.",
-    url: "https://your-portfolio-url.vercel.app",
+    url: "https://rudnie-portfolio.vercel.app/",
     siteName: "Rudnie Casinillo Portfolio",
     images: [
       {
