@@ -77,7 +77,7 @@ export function Footer() {
       href: "https://github.com/rudnie-casinillo",
       icon: <Github className="w-4 h-4" />,
       label: "GitHub",
-      handle: "rudnie",
+      handle: "rudnie-casinillo",
     },
     {
       href: "https://www.instagram.com/_whois.rdn/?hl=en",
