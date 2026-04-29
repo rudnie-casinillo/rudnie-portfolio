@@ -1,0 +1,42 @@
+export const seminarsData = [
+  {
+    id: 1,
+    title: "AWScend Beyond Limits: Define Your Domain, Elevate Your Resume",
+    organizer: "AWS",
+    date: "March 3, 2025",
+    mode: "Philippine Christian University - Dasmariñas",
+    certificate: "/images/certificates/aws-ascend-2025.png",
+  },
+  {
+    id: 2,
+    title: "Get AWS Certified: Roadmap to Career Advancement",
+    organizer: "AWS",
+    date: "October 31, 2024",
+    mode: "Arthaland Century Pacific Tower, Taguig, Metro Manila",
+    certificate: "/images/certificates/aws-certified-2024.jpg",
+  },
+  {
+    id: 3,
+    title: "Wired Foundations: Exploring Networks and Microcontrollers",
+    organizer: "Computer Engineering Department",
+    date: "May 4, 2024",
+    mode: "University / Online",
+    certificate: "/images/certificates/wired-foundations-2024.jpg",
+  },
+  {
+    id: 4,
+    title: "How to Adapt in a World with Artificial Intelligence",
+    organizer: "Computer Engineering Department",
+    date: "March 1, 2023",
+    mode: "University / Online",
+    certificate: "/images/certificates/ai-adapt-2023.png",
+  },
+  {
+    id: 5,
+    title: "Mastering GMAIL: Tips and Tricks for Efficient Email Management",
+    organizer: "Computer Engineering Department",
+    date: "March 1, 2023",
+    mode: "University / Online",
+    certificate: "/images/certificates/gmail-2023.png",
+  },
+];
