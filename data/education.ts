@@ -15,6 +15,18 @@ export const educationData = [
 
 export const achievementsData = [
   {
+    period: "4th Year • 2nd Sem",
+    gwa: "1.45",
+    award: "College Honor",
+    awardColor: "blue",
+  },
+  {
+    period: "4th Year • 1st Sem",
+    gwa: "1.48",
+    award: "Dean's Lister",
+    awardColor: "green",
+  },
+  {
     period: "3rd Year • 2nd Sem",
     gwa: "1.35",
     award: "College Honor",
