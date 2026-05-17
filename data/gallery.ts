@@ -10,4 +10,5 @@ export const galleryImages = [
   { src: "/images/image9.jpg", alt: "Photo 9" },
   { src: "/images/image10.png", alt: "Photo 10" },
   { src: "/images/image11.jpg", alt: "Photo 11" },
+  { src: "/images/image12.jpg", alt: "Photo 12" },
 ];
