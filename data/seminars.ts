@@ -39,4 +39,20 @@ export const seminarsData = [
     mode: "University / Online",
     certificate: "/images/certificates/gmail-2023.png",
   },
+  {
+    id: 6,
+    title: "Networking Essentials: Connecting Systems Safely and Efficiently",
+    organizer: "Computer Programming Services",
+    date: "May 1, 2026",
+    mode: "Online",
+    certificate: "/images/certificates/networking-essentials.png",
+  },
+  {
+    id: 7,
+    title: "Security Information and Event Management (SIEM)",
+    organizer: "Computer Programming Services",
+    date: "May 1, 2026",
+    mode: "Online",
+    certificate: "/images/certificates/SIEM.png",
+  },
 ];
