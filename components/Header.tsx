@@ -41,7 +41,7 @@ export function Header() {
             </span>
           </div>
           <p className="text-gray-600 dark:text-gray-400 mb-1 text-base">
-            Computer Engineering Student · Aspiring Network Engineer & Cybersecurity
+            Computer Engineering Graduate · Network Engineer & Cybersecurity Enthusiast
           </p>
           <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400 mb-4">
             <MapPin className="w-4 h-4" />
@@ -59,7 +59,7 @@ export function Header() {
             <div className="inline-flex items-center gap-2 px-3 py-2 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-xl">
               <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse flex-shrink-0" />
               <span className="text-xs font-medium text-green-700 dark:text-green-400">
-                Open to Opportunities · Network Engineering & Cybersecurity
+                Available for Full-time · Network Engineering & Cybersecurity
               </span>
             </div>
           </div>

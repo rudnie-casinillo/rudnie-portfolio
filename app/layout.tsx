@@ -10,7 +10,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Rudnie Casinillo | Network Engineer & Cybersecurity Portfolio",
-  description: "Computer Engineering student passionate about networking and cybersecurity. Open to opportunities in Network Engineering, Cybersecurity, and IT Helpdesk.",
+  description: "Computer Engineering graduate passionate about networking and cybersecurity. Available for full-time roles in Network Engineering, Cybersecurity, and IT Helpdesk.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Rudnie Casinillo | Network Engineer & Cybersecurity Portfolio",
-    description: "Computer Engineering student passionate about networking and cybersecurity. Open to opportunities in Network Engineering, Cybersecurity, and IT Helpdesk.",
+    description: "Computer Engineering graduate passionate about networking and cybersecurity. Available for full-time roles in Network Engineering, Cybersecurity, and IT Helpdesk.",
     url: "https://rudnie-portfolio.vercel.app/",
     siteName: "Rudnie Casinillo Portfolio",
     images: [
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Rudnie Casinillo | Network Engineer & Cybersecurity Portfolio",
-    description: "Computer Engineering student passionate about networking and cybersecurity. Open to opportunities in Network Engineering, Cybersecurity, and IT Helpdesk.",
+    description: "Computer Engineering graduate passionate about networking and cybersecurity. Available for full-time roles in Network Engineering, Cybersecurity, and IT Helpdesk.",
     images: ["/images/og-image.png"],
   },
 };

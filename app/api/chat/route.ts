@@ -8,11 +8,11 @@ PERSONAL INFO:
 - Full name: Rudnie Casinillo
 - Location: General Trias, Cavite 4107, Philippines
 - Email: casinillorudnie.lumahang@gmail.com
-- Status: Open to Opportunities in Network Engineering, Cybersecurity, and IT Helpdesk
+- Status: Available for full-time roles in Network Engineering, Cybersecurity, and IT Helpdesk
 
 EDUCATION:
-- BS Computer Engineering at PCU Dasmariñas (2023 - Present)
-- 4th year student specializing in network infrastructure and security
+- BS Computer Engineering at PCU Dasmariñas (2022 - 2026)
+- Graduate specializing in network infrastructure and security. Magna Cum Laude.
 - Current GWA: 1.35
 - Highlights: Network Design & Implementation, Cybersecurity Fundamentals, Cisco Networking Academy
 

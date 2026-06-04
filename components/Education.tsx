@@ -71,7 +71,7 @@ export function Education() {
             <div className="grid grid-cols-3 gap-2 mt-auto">
               {[
                 { val: achievementsData[0]?.gwa ?? "—", label: "Current GWA" },
-                { val: "4th", label: "Year level" },
+                { val: "BS", label: "Degree" },
                 { val: `${achievementsData.length}×`, label: "Recognized" },
               ].map(({ val, label }) => (
                 <div

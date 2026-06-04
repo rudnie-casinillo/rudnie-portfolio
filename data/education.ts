@@ -4,7 +4,7 @@ export const educationData = [
     degree: "BS Computer Engineering",
     school: "PCU Dasmariñas",
     year: "2022 - Present",
-    description: "4th year student specializing in network infrastructure and security.",
+    description: "Graduate specializing in network infrastructure and security.",
     highlights: [
       "Network Design & Implementation",
       "Cybersecurity Fundamentals",

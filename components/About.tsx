@@ -49,7 +49,7 @@ export function About() {
 
       {/* Intro */}
       <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed -mt-2">
-        Hi, I'm {b("Rudnie")} — a {b("computer engineering student")} with a growing passion for{" "}
+        Hi, I'm {b("Rudnie")} — a {b("computer engineering graduate")} with a strong passion for{" "}
         {b("networking")} and {b("cybersecurity")}. My background in {b("low-level hardware")} and{" "}
         {b("embedded systems")} gives me a unique perspective on how data moves between devices —
         and how to {b("secure those paths")} against threats. I enjoy breaking down complex network
@@ -103,7 +103,7 @@ export function About() {
       {/* OJT targets */}
       <div>
         <p className="text-xs font-semibold uppercase tracking-widest text-gray-400 dark:text-gray-500 mb-2.5">
-          Looking for
+          Open to
         </p>
         <div className="flex flex-col gap-2">
           {ojtTargets.map(({ icon: Icon, title, sub }) => (
