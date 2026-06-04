@@ -87,6 +87,14 @@ export function Education() {
                 </div>
               ))}
             </div>
+                        {/* Latin Honor */}
+            <div className="mt-3 flex items-center gap-2 px-3 py-2 bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-xl">
+              <span className="text-lg">🏅</span>
+              <div>
+                <p className="text-xs font-bold text-amber-700 dark:text-amber-400">Magna Cum Laude</p>
+                <p className="text-xs text-amber-600/70 dark:text-amber-500/70">Latin Honor · BS Computer Engineering</p>
+              </div>
+            </div>
           </div>
         </div>
 

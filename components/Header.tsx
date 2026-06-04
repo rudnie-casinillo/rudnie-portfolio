@@ -36,6 +36,9 @@ export function Header() {
               Rudnie Casinillo
             </h1>
             <BadgeCheck className="w-6 h-6 text-blue-600 fill-blue-50" />
+            <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold bg-amber-50 dark:bg-amber-900/20 text-amber-700 dark:text-amber-400 border border-amber-200 dark:border-amber-800">
+              🏅 Magna Cum Laude
+            </span>
           </div>
           <p className="text-gray-600 dark:text-gray-400 mb-1 text-base">
             Computer Engineering Student · Aspiring Network Engineer & Cybersecurity
